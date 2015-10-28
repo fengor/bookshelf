@@ -9,6 +9,7 @@ Commandline switches
 --------------------
 
 -s, --service: the service to use for the lookup (default: openl)
+
 -t, --template: the template to use (default: shelf.j2)
 
 Usage
